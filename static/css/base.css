@@ -34,14 +34,14 @@ body {
 }
 
 .btn-black {
-    background: black;
+    background: rgb(33, 95, 110);
     color: white;
 }
 
 .btn-outline-black {
     background: white;
     color: black !important; /* use important to override link colors for <a> elements */
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .shop-now-button:hover,
